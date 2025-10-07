@@ -2,4 +2,8 @@ Add
 
 Hello
 
+<<<<<<< HEAD
 Subt
+=======
+Hai
+>>>>>>> d7db7332b3085a5e0888f6f3cc818f75e029b223

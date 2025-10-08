@@ -1,5 +1,9 @@
 Hello
 
+<<<<<<< HEAD
 Merge conflict Example
 
 Hai 
+=======
+dont commit
+>>>>>>> 1d079898bfa40889e8a28e3b7a30fca12a02b2c3
